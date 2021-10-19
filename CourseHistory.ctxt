@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CourseHistory
+comment0.text=\ \r\n\ @Author\:\ Thu\ Le\ &\ Jiamu\ Chen\r\n\ @Version\:\ Dec\ 2020\r\n
+comment1.params=
+comment1.target=CourseHistory()
+comment2.params=
+comment2.target=void\ displayCourseHistory()
+comment3.params=
+comment3.target=void\ displaySummary()
+comment4.params=distArea
+comment4.target=void\ distAreaReport(java.lang.String)
+comment5.params=competency
+comment5.target=int\ creditcomp(java.lang.String)
+comment6.params=competency
+comment6.target=void\ compReport(java.lang.String)
+comment7.params=
+comment7.target=void\ compReport2()
+comment8.params=
+comment8.target=void\ displayFullReport()
+comment9.params=
+comment9.target=void\ displaySortedGPA()
+numComments=10
